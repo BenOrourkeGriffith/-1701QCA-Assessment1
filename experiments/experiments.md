@@ -89,5 +89,5 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 In this experiment, something new to me was or something I learned was i learnt how to controll the speed of the fan using the accelerometer. I also learnt that a G is an acceleration of 9.81 meters per second per second.
 
-This experiment could be the basis of a real world application such as a deep sea compas as it shows the gravity ehich would alow you to determin up. 
+This experiment could be the basis of a real world application such as a deep sea compas as it shows the gravity which would alow you to determin up. 
 
