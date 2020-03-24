@@ -12,7 +12,7 @@ Say "HELLO" to the BBC micro:bit!
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](e4.jpg)
 
 photo of the face that first apears when a button is pressed.
 
@@ -30,7 +30,7 @@ Using A Light sensor & Analog Inputs
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](e1.jpg)
 
 photo of the night setting
 
@@ -47,7 +47,7 @@ Using a transistor to drive a motor
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](e3.jpg)
 
 (Insert a caption here)
 
@@ -64,7 +64,7 @@ Dimming an LED using a potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](e2.jpg)
 
 (Insert a caption here)
 
@@ -81,7 +81,7 @@ Using the accelerometer to control motor speed.
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](e3.jpg)
 
 (Insert a caption here)
 
