@@ -13,7 +13,7 @@ How to Read Temperature Using BBC Micro:bit
 
 https://www.hackster.io/anish78/how-to-read-temperature-using-bbc-micro-bit-34bf58
 
-![Image](reading temp.jpg)
+![Image](readingtemp.jpg)
 
 This project is related to mine because it uses the microbits inbuilt temperature sensor which is also used in my project for showing the temperature.
   
