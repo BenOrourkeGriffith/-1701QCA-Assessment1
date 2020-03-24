@@ -13,7 +13,7 @@ How to Read Temperature Using BBC Micro:bit
 
 https://www.hackster.io/anish78/how-to-read-temperature-using-bbc-micro-bit-34bf58
 
-![Image](missingimage.png)
+![Image](readingtemp.jpg)
 
 This project is related to mine because it uses the microbits inbuilt temperature sensor which is also used in my project for showing the temperature.
   
@@ -22,7 +22,7 @@ Indoor-outdoor thermometer
 
 https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/
 
-![Image](missingimage.png)
+![Image](indooroutdoor.jpg)
 
 This project is related to mine because it is a thermometer that can pickup the temperature around it and display it on a screen that is used in project to configure the gauge. 
 
@@ -31,7 +31,7 @@ This project is related to mine because it is a thermometer that can pickup the 
     
     https://www.elecfreaks.com/learn-en/microbitKit/smart_home_kit/smart_home_case_02.html
     
-   ![Image](missingimage.png)
+   ![Image](smartfan.jpg)
     
    This project is related to mine because it uses a temperature sensor to turn the fan on until the room cools which is what my project is also trying to attain usuing a mini fan when the temperature reaches a certin degree.  
     
