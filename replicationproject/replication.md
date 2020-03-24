@@ -33,17 +33,7 @@ This project is related to mine because it is a thermometer that can pickup the 
     
    ![Image](smartfan.jpg)
     
-   This project is related to mine because it uses a temperature sensor to turn the fan on until the room cools which is what my project is also trying to attain usuing a mini fan when the temperature reaches a certin degree.  
-    
-    
-   ### Related project 4 ### 
-    Smart Fan Control System with Micro:bit
-   
-   https://www.hackster.io/72016/smart-fan-control-system-with-micro-bit-c41a14
-   
-   ![Image](missingimage.png)
-   
-   This project is related to mine because it uses the micro bit to controll the fan like my project when the fan is triggered. 
+   This project is related to mine because it uses a temperature sensor to turn the fan on until the room cools which is what my project is also trying to attain usuing a mini fan when the temperature reaches a certin degree.   
     
    ### Related project 4 ###
    How to Create Temperature Gauge Using Micro:bit
