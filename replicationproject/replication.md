@@ -13,7 +13,7 @@ How to Read Temperature Using BBC Micro:bit
 
 https://www.hackster.io/anish78/how-to-read-temperature-using-bbc-micro-bit-34bf58
 
-![Image](readingtemp.jpg)
+![Image](1.jpg)
 
 This project is related to mine because it uses the microbits inbuilt temperature sensor which is also used in my project for showing the temperature.
   
@@ -22,7 +22,7 @@ Indoor-outdoor thermometer
 
 https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/
 
-![Image](indooroutdoor.jpg)
+![Image](2.jpg)
 
 This project is related to mine because it is a thermometer that can pickup the temperature around it and display it on a screen that is used in project to configure the gauge. 
 
@@ -31,7 +31,7 @@ This project is related to mine because it is a thermometer that can pickup the 
     
     https://www.elecfreaks.com/learn-en/microbitKit/smart_home_kit/smart_home_case_02.html
     
-   ![Image](smartfan.jpg)
+   ![Image](3.jpg)
     
    This project is related to mine because it uses a temperature sensor to turn the fan on until the room cools which is what my project is also trying to attain usuing a mini fan when the temperature reaches a certin degree.   
     
@@ -40,7 +40,7 @@ This project is related to mine because it is a thermometer that can pickup the 
    
    https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
    
-   ![Image](missingimage.png)
+   ![Image](4.jpg)
    
    This project is related to mine because it is also a temperature gauge that adjust it arrow to the position that the room is sitting at just like my project except this project lacks the fan. The code in this project is very similar. 
    
@@ -49,7 +49,7 @@ This project is related to mine because it is a thermometer that can pickup the 
    
    https://www.elecfreaks.com/store/blog/post/microbit-experiment-07temperature-sensor-elecfreaks-mirco-bit-starter-kit-course.html
    
-   ![Image](missingimage.png)
+   ![Image](5.jpg)
    
    This project is related to mine because it uses a bread bored to assist in its role of measuring temperature. 
   
@@ -58,7 +58,7 @@ This project is related to mine because it is a thermometer that can pickup the 
   
   https://www.vellemanformakers.com/make-a-microbit-controlled-fan/
   
-  ![Image](missingimage.png)
+  ![Image](6.jpg)
   
   This project is related to mine because it uses the micro bit to turn the fan off and on using a button. Although my project does not use a button to controll fan it is still coded to turn off and on under special circumstances. 
   
@@ -119,7 +119,7 @@ I would like to know more about the processes they went through for other projec
 This is a great reading for my project. When i run into barriers i can test and teast untill i find the issue then move on. By doing this i will eventually succseed in my project. I also learnt that i can use various way to reach the goal not just one. 
 
 ## Interaction flowchart ##
-![Image](missingimage.png)
+![Image](7.jpg)
 
 ## Process documentation
 
@@ -131,13 +131,13 @@ This is a great reading for my project. When i run into barriers i can test and 
 
 My project was built out or card boared and paper. The cardboared used was to creat the box for the electronics to sit in. I cut the card boared (that i sourced from the university) into squared and cut slits into the face so that it could fit into the other pieces this way all i needed to youse was stick tape to hold it up. I also used the paper for creating the face and arrow of the gauge. i drew with sharpie and texter to get the colours that i desired.I chose to yourse card board because it is easy to source, light and also strong. I chose to use a bread board to complete my project as it has the ability to connect muliple devides at once for example my fan and servo.I was also having trouble when trying to make it without the bread board as the wires were falling out and not making great connections with the equipment I had on hand.  I poked holes in the front yousing a small screw driver and scissors. When constructing the basic servo connected with the temperature, I watched a youtube tutorial to help me build and code the piece.(https://www.youtube.com/watch?v=Hi3Km1PV45M) 
 
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](8.jpg)
+![Image](9.jpg)
+![Image](10.jpg)
+![Image](11.jpg)
+![Image](12.jpg)
+![Image](13.jpg)
+
 
 ## Project outcome ##
 
@@ -149,11 +149,11 @@ Temperature gauge
 The temperature gauge measures the temperature in the room and spins a fan once it reaches a cirtin temperature threshold alerting the user to cool the room down untill the fan turns off. A typical use case for the gauge would be if the user was trying to keep the room at a temperature while conserving air conditioning. This could be a method of keeping ontop of the room temp. 
 ### Showcase image ###
 
-![Image](missingimage.png)
+![Image](14.jpg)
 
 ### Additional view ###
 
-![Image](missingimage.png)
+![Image](15.jpg)
 
 ### Reflection ###
 
