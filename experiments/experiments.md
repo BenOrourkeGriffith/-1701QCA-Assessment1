@@ -10,7 +10,7 @@
 
 Say "HELLO" to the BBC micro:bit!
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
+
 
 ![Image](e4.jpg)
 
@@ -28,7 +28,7 @@ This experiment could be the basis of a real world application such as a very ba
 Using A Light sensor & Analog Inputs
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](e1.jpg)
 
@@ -45,11 +45,11 @@ This experiment could be the basis of a real world application such as a device 
 Using a transistor to drive a motor
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](e3.jpg)
 
-(Insert a caption here)
+photo of fan setup
 
 #### Reflection ####
 
@@ -62,11 +62,11 @@ This experiment could be the basis of a real world application such as a car. A 
 Dimming an LED using a potentiometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](e2.jpg)
 
-(Insert a caption here)
+photo of bright setting
 
 #### Reflection ####
 
@@ -79,11 +79,11 @@ This experiment could be the basis of a real world application such as a light s
 Using the accelerometer to control motor speed.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](e3.jpg)
 
-(Insert a caption here)
+photo of setup
 
 #### Reflection ####
 
