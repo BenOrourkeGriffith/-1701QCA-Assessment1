@@ -141,7 +141,6 @@ My project was built out or card boared and paper. The cardboared used was to cr
 
 ## Project outcome ##
 
-*Complete the following information.*
 
 ### Project title ###
 Temperature gauge
@@ -167,3 +166,5 @@ I found that having already done the fan experiment the coding and the building 
 I used the main idea from the assesment brief that i recieved. I had also heared people talk about how using aircon is so xpensive and that they wanted a way to monitor the temp in the room at all times so they didnt have to keep it on when unnecessary. This inspired my idea of alerting the user of the temperature in the room.
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+This project couls be turned into a termperature gauge for the blind. It would intead of a fan have a speaker that chimed when ever it gets to warm so that they know. It could also let off a series of beeps to alert the user to what the temperature is.
