@@ -13,7 +13,7 @@ How to Read Temperature Using BBC Micro:bit
 
 https://www.hackster.io/anish78/how-to-read-temperature-using-bbc-micro-bit-34bf58
 
-![Image](q1.jpg)
+![Image](q1.JPG)
 
 This project is related to mine because it uses the microbits inbuilt temperature sensor which is also used in my project for showing the temperature.
   
@@ -22,7 +22,7 @@ Indoor-outdoor thermometer
 
 https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/
 
-![Image](q2.jpg)
+![Image](q2.JPG)
 
 This project is related to mine because it is a thermometer that can pickup the temperature around it and display it on a screen that is used in project to configure the gauge. 
 
@@ -31,7 +31,7 @@ This project is related to mine because it is a thermometer that can pickup the 
     
     https://www.elecfreaks.com/learn-en/microbitKit/smart_home_kit/smart_home_case_02.html
     
-   ![Image](q3.jpg)
+   ![Image](q3.JPG)
     
    This project is related to mine because it uses a temperature sensor to turn the fan on until the room cools which is what my project is also trying to attain usuing a mini fan when the temperature reaches a certin degree.   
     
@@ -40,7 +40,7 @@ This project is related to mine because it is a thermometer that can pickup the 
    
    https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
    
-   ![Image](q4.jpg)
+   ![Image](q4.JPG)
    
    This project is related to mine because it is also a temperature gauge that adjust it arrow to the position that the room is sitting at just like my project except this project lacks the fan. The code in this project is very similar. 
    
@@ -49,7 +49,7 @@ This project is related to mine because it is a thermometer that can pickup the 
    
    https://www.elecfreaks.com/store/blog/post/microbit-experiment-07temperature-sensor-elecfreaks-mirco-bit-starter-kit-course.html
    
-   ![Image](q5.jpg)
+   ![Image](q5.JPG)
    
    This project is related to mine because it uses a bread bored to assist in its role of measuring temperature. 
   
@@ -58,7 +58,7 @@ This project is related to mine because it is a thermometer that can pickup the 
   
   https://www.vellemanformakers.com/make-a-microbit-controlled-fan/
   
-  ![Image](q6.jpg)
+  ![Image](q6.JPG)
   
   This project is related to mine because it uses the micro bit to turn the fan off and on using a button. Although my project does not use a button to controll fan it is still coded to turn off and on under special circumstances. 
   
@@ -153,7 +153,7 @@ The temperature gauge measures the temperature in the room and spins a fan once 
 
 ### Additional view ###
 
-![Image](15.jpg)
+![Image](13.jpg)
 
 ### Reflection ###
 
