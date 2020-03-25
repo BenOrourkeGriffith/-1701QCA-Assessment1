@@ -21,7 +21,7 @@ photo of the face that first apears when a button is pressed.
 In this experiment, something new to me was or something I learned was how to code the micro:bit in order to get it to show text on its little led screen.
 
 
-This experiment could be the basis of a real world application such as a very basic version of a kids toy with buttons that activate diffrent options.
+This experiment could be the basis of a real world application such as a very basic version of a kids toy with buttons that activate diffrent faces and words. It is also Simular to a digital alarmclock saying goodmorning.
 
 ### Experiment name ###
 
